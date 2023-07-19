@@ -1,2 +1,2 @@
 # NLP
-The primary objective was to harness the power of natural language processing and machine learning to predict the author behind a given article or text.
+As a part of my Master's program in Data Science, I undertook a machine learning task centered around Natural Language Processing (NLP). The primary objective of this project was to leverage the combined potential of NLP and machine learning techniques to accurately predict the author of a given article or text.
